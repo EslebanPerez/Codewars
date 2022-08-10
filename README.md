@@ -5,7 +5,6 @@ This are my solutions to the excercices from the book "Eloquent JavaScript" by M
 ## Content
 | Chapter # | Title |
 | ------------- | ------------- |
-
 | Chapter 1 | **[Values, Types, and Operators](url)** |
 | Chapter 2 | Coming Soon |
 | Chapter 3 | Coming Soon |
